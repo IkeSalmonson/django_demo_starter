@@ -1,5 +1,5 @@
 ## Introduction
- `django_demo_starter` is a dockerized python webapp wiht simple html pages based on the Tech With Tim tutorial. 
+ `django_demo_starter` is a dockerized python webapp wiht simple html pages based on the Tech With Tim - Django in 20 minutes. 
  
 ## Usage 
  To run the application, make sure to have the prerequesit installed: 
@@ -29,4 +29,4 @@ Admin credentials: root 123123
 
 # References 
 
- [Django in 20 minutes] (https://www.youtube.com/watch?v=nGIg40xs9e4)
+ [Django in 20 minutes](https://www.youtube.com/watch?v=nGIg40xs9e4)

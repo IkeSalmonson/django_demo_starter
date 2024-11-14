@@ -1,5 +1,5 @@
 ## Introduction
- `django_demo_starter` is a dockerized python webapp wiht simple html pages based on the Tech With Tim - Django in 20 minutes. 
+ `django_demo_starter` is a dockerized python webapp with simple html pages based on the Tech With Tim - Django in 20 minutes. 
  
 ## Usage 
  To run the application, make sure to have the prerequesit installed: 
@@ -21,7 +21,7 @@ Run server (container broadcast to localhost:8000)
 ```
 python manage.py runserver 0.0.0.0:8000
 ```
-Acesso no browser via: http://localhost:8000/
+Access on browser via: http://localhost:8000/
 
 Admin Panel: http://localhost:8000/admin
 

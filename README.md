@@ -27,6 +27,11 @@ Admin Panel: http://localhost:8000/admin
 
 Admin credentials: root 123123
 
+# Container Stats 
+|REPOSITORY| TAG |IMAGE ID|SIZE|
+|----------|----|----------|----|
+|django_starter|dev|2a0b5538ef42|106MB|
+
 # References 
 Commands: 
 ```

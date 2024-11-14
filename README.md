@@ -28,5 +28,18 @@ Admin Panel: http://localhost:8000/admin
 Admin credentials: root 123123
 
 # References 
+Commands: 
+```
+django-admin startproject
+```
+```
+python manage.py startapp
+```
+```
+python manage.py migrate
+```
+```
+python manage.py createsuperuser 
+```
 
  [Django in 20 minutes](https://www.youtube.com/watch?v=nGIg40xs9e4)
